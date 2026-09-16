@@ -6,7 +6,7 @@ using System.Numerics;
 namespace MohawkGame2D
 {
     /// <summary>
-    ///     Your game code goes inside this class!
+    ///     Your game code goes inside this class!!
     /// </summary>
     public class Game
     {
